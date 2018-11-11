@@ -1,0 +1,30 @@
+{
+  "name": "serverless-pizza",
+  "version": "1.0.0",
+  "description": "My code for the serverless-pizza from Manning's Serverless Applications",
+  "main": "src/api.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mnuman/my-serverless-pizza.git"
+  },
+  "keywords": [
+    "AWS",
+    "Lambda",
+    "Serverless",
+    "Claudia",
+    "Node"
+  ],
+  "author": "Milco Numan - well, actually the Yugo blokes who wrote the book",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mnuman/my-serverless-pizza/issues"
+  },
+  "homepage": "https://github.com/mnuman/my-serverless-pizza#readme",
+  "dependencies": {
+    "claudia-api-builder": "^4.1.1",
+    "claudia-bot-builder": "^4.5.0"
+  }
+}
