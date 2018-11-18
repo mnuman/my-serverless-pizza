@@ -1,11 +1,11 @@
 {
   "lambda": {
-    "role": "serverless-pizza-executor",
-    "name": "serverless-pizza",
+    "role": "pizza-api-executor",
+    "name": "pizza-api",
     "region": "eu-central-1"
   },
   "api": {
-    "id": "gwaab6xk93",
+    "id": "6vigciuv5f",
     "module": "api"
   }
 }
